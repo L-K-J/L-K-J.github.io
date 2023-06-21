@@ -1,2 +1,1 @@
-L-K-J.github.io
-kangjielee.github.io
+https://kangjielee.github.io
