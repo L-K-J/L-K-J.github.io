@@ -34,7 +34,7 @@ export function Home() {
 
 
     return (
-        <div className="App">
+        <div className="Home">
             <Container maxWidth="sm">
                 <Box sx={{ marginBottom: '16px', textAlign: 'center' }}>
                     <Typography variant="h6" component="h1" sx={{ width: '100%' }}>
