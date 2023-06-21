@@ -67,6 +67,7 @@ export function MonthSelect({ value, onChange }) {
     if (!value) {
       onChange(currentMonth);
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleChange = (event) => {

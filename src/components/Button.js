@@ -17,7 +17,7 @@ export function ImageUpload() {
     };
 
     const handleFileInputChange = (event) => {
-        const selectedFile = event.target.files[0];
+        // const selectedFile = event.target.files[0];
         // Logic to handle the selected file
         // ...
     };
